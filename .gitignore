@@ -1,0 +1,36 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Compiled Python files
+*.pyc
+
+# Compiled Cython files
+*.pyx
+
+# Python cache
+__pycache__/
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
+
+# Virtual environment
+venv/
+
+# Virtual environment
+venv/
+
+# PyCharm project files
+.idea/
+
+# PyCharm configuration files
+*.iml
+*.ipr
+*.iws
