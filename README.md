@@ -29,7 +29,7 @@ git clone https://github.com/VaporDotDev/asset-party-bot
 ```
 2. Navigate to the project directory:
 ```shell
-cd automated-raffle-script
+cd asset-party-bot
 ```
 3. Install the required dependencies:
 ```shell
